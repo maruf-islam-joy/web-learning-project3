@@ -1,0 +1,47 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.front{
+    display: flex;
+    flex-direction: row-reverse;
+    background-image: url("../images/banner/banner1.png");
+    background-size: 1530px;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+}
+.banner{
+    width: 525px;
+    text-align: right;
+    margin-right: 230px;
+    margin-top: 140px;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #ffa200;
+    padding: 15px 25px;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+    border: 0;
+}
+.btn-primary:hover{
+    background-color: rgb(224, 222, 222);
+    color: #ffa200;
+}
+.ban-tit{
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    
+
+}
+.ban-desc{
+    color: #444343;
+    font-size: 18px;
+    font-weight: 350;
+    padding-left:120px ;
+    
+}
