@@ -1,0 +1,36 @@
+.img-sec
+{
+    margin-left: 230px;
+}
+
+
+.fail{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 110px;
+    gap: 10px;
+}
+.fail-tit{
+    font-size: 40px;
+    font-weight: 720;
+    color: #151414;
+    padding-right: 100px;
+}
+.fail-desc{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: #444343;
+    padding-right: 25px;
+}
+.failure-list{
+    padding-right: 300px;
+}
+.fli{
+    padding-bottom: 6px;
+   
+.fail-list{
+    margin-left: 0;
+}
+
