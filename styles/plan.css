@@ -38,7 +38,7 @@
 }
 
 .call-now-img{
-    background-image: url("../images/watch.PNG"),linear-gradient(90deg,#ff692e 0%, rgba(241, 91, 34, 0.00) 100%);
+    background-image: url("images/watch.PNG"),linear-gradient(90deg,#ff692e 0%, rgba(241, 91, 34, 0.00) 100%);
     background-repeat: no-repeat;
     background-blend-mode: overlay;
     background-size: cover;
