@@ -26,7 +26,7 @@
     font-weight: 700;
     border: 0;
 }
-.btn-primary:hover{
+.btn-primary:hover, .call-btn:hover{
     background-color: rgb(224, 222, 222);
     color: #ffa200;
 }

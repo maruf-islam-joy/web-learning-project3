@@ -24,11 +24,15 @@
     border-radius: 2px;
     background: #FFF;
     border: none;
-    color: #F15B22;
+    color: #ffa200;
     text-align: center;
     font-size: 14px;
     font-weight: 556;
     padding: 16px 29px 16px 29px;
+}
+.call-btn:hover{
+    background-color: #ffa200;
+    color:  white ;
 }
 .call-now-elem{
     padding-left: 55px;
